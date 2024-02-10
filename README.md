@@ -1,7 +1,6 @@
 ### Hi there 👋
 * **SELF INTRODUCTION**<br>
-    My name is Anany Sharma and I am a Final year Graduate from SRM Institute of Science and Technology pursuing Computer Science Engineering.<br>
-    I am a Data Science Aspirant and really excited to build cool stuff which can change the way things are done.
+    My name is Anany Sharma and I am currently working as a Software Engineer in Optum Global Solutions (UHG) for more than 2 years now.I am a Graduate from SRM Institute of Science and Technology pursuing Computer Science Engineering. I am a Data Science Aspirant and really excited to build cool stuff which can change the way things are done.
 
     - 👯 I’m looking to collaborate on any **DATA SCIENCE** and **ML** projects.
 
