@@ -13,7 +13,7 @@
      * Connect with me on Github [here](https://github.com/ananyd36)
      * Connect with me on Kaggle [here](https://www.kaggle.com/ananysharma)
  * **A GLIMPSE OF MY WORK**<br>
-     * [**RESUME**](https://drive.google.com/drive/folders/1HKbXib-LJ-RiMCaoO4uqWKwbIkyOkFsY?usp=sharing)
+     * [**RESUME**](https://drive.google.com/file/d/1yxqW6tjChDGd3PcpagshvwQ4ZgQlPP_n/view?usp=sharing)
      * **BLOGS**<br>
         1.[Feature Engineering Techniques](https://www.analyticsvidhya.com/blog/2020/10/introduction-and-implementation-to-neural-style-transfer-deep-learning/)<br>
         2.[Neural Style Transfer](https://www.analyticsvidhya.com/blog/2020/10/introduction-and-implementation-to-neural-style-transfer-deep-learning/)<br>
