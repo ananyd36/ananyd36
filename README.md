@@ -1,12 +1,12 @@
 ### Hi there 👋
 * **SELF INTRODUCTION**<br>
-    My name is Anany Sharma and I am currently a Masters student majoring in Artificial Intelligence Systems from University if Florida. I have worked as a Software Engineer in Optum Global Solutions (UHG) for around 3 yrs .I have completed my undergraduate from SRM Institute of Science and Technology majored in Computer Science Engineering. I am a Data Science Aspirant and really excited to build cool stuff which can change the way things are done.
+    My name is Anany Sharma and I am currently a Masters student majoring in Artificial Intelligence Systems from University if Florida. I have worked as a Software Engineer in Optum Global Solutions (UHG) for around 3 yrs .I have completed my undergraduate from SRM Institute of Science and Technology majored in Computer Science Engineering. I am a Data Science/AI Aspirant and really excited to build cool stuff which can change the way things are done.
 
-    - 👯 I’m looking to collaborate on any **DATA SCIENCE** and **ML** projects.
+    - 👯 I’m looking to collaborate on any **AI** and **ML** projects.
 
-    - 💬 Ask me about Machine Learning, Deep Learning.
+    - 💬 Ask me about AI, Machine Learning and Deep Learning.
 
-    - 📫 ***How to reach me***:Contact me directly on this mail [ananyd36@gmail.com](mailto:ananyd36@gmail.com).
+    - 📫 ***How to reach me***:Contact me directly on this mail [ananyd36.ms@gmail.com](mailto:ananyd36.ms@gmail.com).
 
  * **LETS CONNECT**<br>
      * Connect with me on linkedin [here](https://www.linkedin.com/in/ananyd36/)
