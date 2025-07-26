@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ananyd36" alt="Profile views" />
+</p>
+
 # Hi there 👋
 * My name is Anany Sharma and I am currently a Masters student majoring in Artificial Intelligence Systems from University of Florida. I have worked as a Software Engineer in Optum Global Solutions (UHG) for around 3 yrs .I have completed my undergraduate from SRM Institute of Science and Technology majored in Computer Science Engineering. I am a Data Science/AI Aspirant and really excited to build cool stuff which can change the way things are done.
 
